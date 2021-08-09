@@ -25,7 +25,7 @@ DEFAULT_WORKERS=50
 DEFAULT_SOCKETS=4000
 
 
-with open('lists/useragents.txt') as f:
+with open('lists/useragennts.txt') as f:
     USER_AGENT_PARTS = f.readlines()
 
 class Saphyra(object):
@@ -474,7 +474,7 @@ ___<__(|) _   **-/  / /   /
       /  / /   /  
      /  |,'   /  
     :   /    /
-    [  /   ,'     ~>Saphyra V.2 - DDoS Tool<~
+    [  /   ,'     ~>Saphyra V.3 - DDoS Tool<~
     | /  ,'    
     |/,-'
     '
